@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/01/how-manufacturers-can-avoid-common-erp.html"}
-if(x=="2"){xxx="/2019/01/best-practices-in-crm-software.html"}
-if(x=="3"){xxx="/2019/01/microsoft-dynamics-365-operations-erp.html"}
-if(x=="4"){xxx="/2019/01/five-erp-software-trends-to-watch-in.html"}
-if(x=="5"){xxx="/2019/01/top-predictions-for-erp-software.html"}a_to_ve[i].href="http://www.travel-tips.me"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/03/the-pros-and-cons-weighing-out.html"}
+if(x=="2"){xxx="/2019/03/how-to-pick-best-erp-business-systems.html"}
+if(x=="3"){xxx="/2019/03/the-best-erp-software-on-market-and.html"}
+if(x=="4"){xxx="/2019/03/3-tips-for-choosing-erp-software.html"}
+if(x=="5"){xxx="/2019/03/3-main-syteline-erp-software-main.html"}a_to_ve[i].href="http://www.travel-tips.me"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
